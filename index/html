@@ -11,7 +11,7 @@
     <header>
       <h1>こんにちは、世界！</h1>
       <nav>
-        <ul>
+      <ul>
           <li><a href="#about">このサイトについて</a></li>
           <li><a href="#contact">お問い合わせ</a></li>
         </ul>
